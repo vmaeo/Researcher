@@ -6,44 +6,13 @@ A local CLI research agent that autonomously searches and summarizes any topic u
 
 ## Example
 
-```
+```bash
 python main.py "Artificial Intelligence breakthroughs 2026"
-
-                                                     ╭────────────╮
-                                                     │ RESEARCHER │
-                                                     ╰────────────╯
-[Searching...]
-[Reading: https://www.latest.com/belief-and-breakthrough-outlook-on-artificial-intelligence-development-trends]
-[Reading: https://www.techallabout.com/artificial-intelligence-breakthroughs/]
-[Reading: https://casinotips.io/category/gaming/artificial-intelligence/]
-[Summarizing...]
-Here is a structured summary of the provided notes, including important findings and sources:
-
-Title: The Evolution of AI and its Impact on Society
-
-Summary:
-
-The AI industry is at a critical crossroads, with the technological competition between OpenAI and Google intensifying.
-Despite challenges such as data depletion, the industry remains optimistic about the development of Artificial General
-Intelligence (AGI). The Scaling Law, proposed by Huang Renxun, is the most reliable technical path for sustained growth
-of computing power. Multimodal technology has ushered in a new era, enabling models to integrate text, images, and
-videos, and breaking the limitation of large language models.
-
-Key Findings:
-
- 1 The AI industry is experiencing rapid growth and advancements, with the total installed capacity of large-scale data
-   center projects exceeding 45 GW and $2.5 trillion in investment.
- 2 Multimodal technology has enabled models to achieve in-depth integration of text, images, and videos, breaking the
-   limitation of large language models.
- 3 Innovations in underlying architectures and learning paradigms are flourishing, with emerging global laboratories
-   taking diverse approaches to address challenges such as superintelligence safety, system reliability, and
-   catastrophic forgetting.
- 4 The AI4S field is transitioning from academic breakthroughs to industrial applications, with significant potential
-   for impact in various industries.
-
-Important Sources:
-[...]
 ```
+
+<p align="center">
+<img width="600px" alt="researcher_example" src="https://github.com/user-attachments/assets/239290ef-5d2f-4672-855b-75e805c6c6c3" />
+</p>
 
 ---
 
